@@ -79,8 +79,6 @@ Add your Notes App screenshot here.
 
 **Shrinithi S**
 
-Frontend Developer
-
 GitHub: [shri-tech-lab](https://github.com/shri-tech-lab)
 
 ---
